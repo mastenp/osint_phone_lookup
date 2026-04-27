@@ -32,7 +32,7 @@ When you run the script, you will see a menu:
 5. Exit
 
 
-1. Add Entry
+1 - Add Entry
 Manually add a phone record:
 	•	Enter phone number (any format)
 	•	Add name, alias, notes
@@ -40,24 +40,24 @@ Manually add a phone record:
 	•	Set confidence level (low / med / high)
 The system will automatically normalize the phone number.
 
-2. Search
+2 - Search
 	•	Enter a full or partial phone number
 	•	Example:
 	◦	9545551234
 	◦	5551234
 	•	Returns all matching records with associated identities and sources
 
-3. Import CSV
+3 - Import CSV
 Bulk import phone data from a CSV file.
 You will be prompted to enter the file path:
 Enter CSV file path: data.csv
 
-4. Export CSV
+4 - Export CSV
 Exports the entire database into a CSV file.
 You will be prompted to enter an output path:
 Enter output CSV file path: export.csv
 
-5. Bulk Search
+5 - Bulk Search
 Bulk search allows you to provide a text (Numbers.txt), with one number per line for a search of the database.
 You will be prompted to enter the path of the input file.
 You will be provided the option to print results to screen or export to .csv
