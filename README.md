@@ -2,6 +2,7 @@
 Your very own searchable phone database for phone numbers you have previously identified owners/users or come across in prior instances/sources/investigations.
 
 Overview
+
 This is a lightweight, local OSINT phone lookup tool built with Python and SQLite. It allows you to:
 	•	Store and normalize phone numbers
 	•	Link numbers to identities (name, alias, notes)
