@@ -30,6 +30,8 @@ When you run the script, you will see a menu:
 3. Import CSV
 4. Export CSV
 5. Exit
+
+
 1. Add Entry
 Manually add a phone record:
 	•	Enter phone number (any format)
